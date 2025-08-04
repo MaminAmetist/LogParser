@@ -31,3 +31,7 @@ python main.py --file logs/file1.log logs/file2.log --report average
 ```bash
 python main.py --file logs/example1.log --report average --date 2025-08-01
 ```
+
+### Пример вывода:
+
+![img.png](console_output.png)
